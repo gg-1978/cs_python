@@ -9,4 +9,3 @@ print("some text\n")
 # display message to screen
 print("Welcome to QHO426!")
 print("In week 1 we will learn...")
-
