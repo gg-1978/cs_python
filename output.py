@@ -15,3 +15,11 @@ print("...How to output to the screen")
 print("...How to get user input\n")
 
 print("I hope you are enjoying the lesson so far!")
+
+# display escape characters
+
+print("\n Displays a mew line")
+print("\t Displays a new tab")
+print("\\ Displays a backslash")
+print("\" Displays a double quote")
+print("\' Displays a single quote")
