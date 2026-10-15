@@ -31,4 +31,3 @@ print("\' Displays a single quote")
 
 print("\n\t\"I am programming!\"")
 
-# blah blah blah
