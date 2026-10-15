@@ -1,6 +1,11 @@
 ﻿# print("Hello World!")
 # first program
 
+# print - python
+# printf - C
+# console.log() - JS
+# system.out.println - Java
+
 # print() # prints a blank line
 
 # displays 'some text' to standard output. It is preferable to place comments before the code.
@@ -24,4 +29,3 @@ print("\\ Displays a backslash")
 print("\" Displays a double quote")
 print("\' Displays a single quote")
 
-print("made a change now")
