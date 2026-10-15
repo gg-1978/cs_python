@@ -29,5 +29,16 @@ print("\\ Displays a backslash")
 print("\" Displays a double quote")
 print("\' Displays a single quote")
 
-print("\n\t\"I am programming!\"")
+print("\n\t\"I am programming!\"\n")
 
+# display a box
+print("  #####")
+print("  #   #")
+print("  #####")
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+print("   ###    ")
+print("   ###    ")
+print("   ###    ")
