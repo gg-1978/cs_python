@@ -32,6 +32,14 @@ print("\' Displays a single quote")
 print("\n\t\"I am programming!\"\n")
 
 # display a box
+
+print("##########")
+print("#        #")
+print("#        #")
+print("##########")
+
+# display a robot
+
 print("  #####")
 print("  #   #")
 print("  #####")
