@@ -6,5 +6,6 @@ print(f"Nice to meet you, {name}.")
 
 # a way to combine the first 2 lines
 
-name = input("What is your name? ")
-print(f"Nice to meet you, {name}.")
+# name = input("What is your name? ")
+# print(f"Nice to meet you, {name}.")
+
