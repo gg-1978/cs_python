@@ -11,8 +11,9 @@ print(f"Nice to meet you, {name}.")
 
 eyes = input("Enter a symbol for eyes: ")
 
-
 print("##########")
 print(f"#  {eyes}  {eyes}  #")
 print("#  ____  #")
 print("##########")
+
+
