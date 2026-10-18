@@ -1,0 +1,5 @@
+Name: Charles
+Age: 25
+Height: 1.74
+Weight: 84
+BMI: 27.74474831549742

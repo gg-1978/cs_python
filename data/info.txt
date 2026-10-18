@@ -1,0 +1,5 @@
+Name: Bob
+Age: 36
+Height: 1.85
+Weight: 110
+BMI: 32.14024835646457
