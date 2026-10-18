@@ -1,0 +1,5 @@
+Name: Javier
+Age: 32
+Height: 1.68
+Weight: 79
+BMI: 27
