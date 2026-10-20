@@ -34,7 +34,7 @@ print("Analysis complete")
 
 '''
 # Direction
-
+'''
 mapping = True
 
 while mapping == True:
@@ -62,7 +62,18 @@ while mapping == True:
             mapping = False
     else:
         print("Error. Please enter a valid direction!\n")
+'''
 
 # Modulo
 
+number = input("Enter a whole number: ")
+
+modulo = int(number) % 2
+
+if modulo == 0:
+    print(f"The number {number} is an even number!")
+elif modulo == 1:
+    print(f"The number {number} is an odd number!")
+else:
+    print("Error!")
 
