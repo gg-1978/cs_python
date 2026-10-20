@@ -57,6 +57,6 @@ print(f"{name} you are {age} years old and your bmi is {int(bmi)}!")
 with open(f"/home/ubuntu/cs_python/cs_python/data/{file_name}.txt", "w") as file:
    file.write(f"Name: {name}\n")
    file.write(f"Age: {age} yrs\n")
-   file.write(f"Height: {height}m\n")
-   file.write(f"Weight: {weight}kg\n")
+   file.write(f"Height: {height} m\n")
+   file.write(f"Weight: {weight} kg\n")
    file.write(f"BMI: {write_bmi}\n")
