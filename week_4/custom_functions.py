@@ -51,6 +51,35 @@ def create_ladder():
     print(f"There are {steps} steps remaining")
     display_ladder(steps)
 
+def sum_weights(char_weight, inv_weight):
+    total_weight = char_weight + inv_weight
+    return total_weight
+
+def calc_avg_weight(char_weight, inv_weight):
+    avg_weight = total_weight / 2
+    return avg_weight
+
+def run():
+    print("What is the weight of the character?")
+    char_weight = int(input())
+
+    print("What is the weight of the inventory?")
+    inv_weight = int(input())
+
+    sum_weights()
+
+    calc_avg_weight()
+
+    print("What would you like to calculate (sum or average)?")
+    sum_or_avg = input()
+    if sum_or_avg == "sum":
+        print(f"The sum of weights is {total_weight}.")
+    elif sum_or_avg == "average":
+        print(f"The average of weights is {avg_weight}.")
+    else:
+        print("Error. Incorrect choice entered")
+
+
 
 listen()
 # this passes the user input into the variable danger
@@ -64,3 +93,7 @@ cross_bridge(6)
 # climb_ladder(9, 12)
 steps = climb_ladder(9, 12)
 create_ladder()
+total_weight = sum_weights()
+avg_weight = calc_avg_weight()
+run()
+
